@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moutaz1515
-- 👀 I’m interested in python and app-Developer
+- 👀 I’m interested in python and app-Developer Xcode
 - 🌱 I’m currently learning Flask framework and to connect oracle with python
 
 - 📫 How to reach me ... in Twitter Almoutaz_Alz
