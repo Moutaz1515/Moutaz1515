@@ -9,11 +9,11 @@
 
 - 💬 Ask me about **App developer and coding**
 
-- 📫 How to reach me **linkden: https://www.linkedin.com/in/almaataz-alzahrani-024035175**
+- 📫 How to reach me **linkden: Almaataz Alzahrani**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@almoutaz_alz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@almoutaz_alz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/almaataz-alzahrani-024035175" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Almaataz Alzahrani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
