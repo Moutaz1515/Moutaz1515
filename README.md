@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **App developer and coding**
 
-- 📫 How to reach me **Twitter: @almoutaz_alz**
+- 📫 How to reach me **linkden: https://www.linkedin.com/in/almaataz-alzahrani-024035175**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
