@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Almoutaz Alzahrani</h1>
 <h3 align="center">APP developer and interested in machine learning from Saudi Arabia</h3>
 
-- 🔭 I’m currently working on **Mask detection camera**
+<!-- 🔭 I’m currently working on **Mask detection camera**-->
 
-- 🌱 I’m currently learning **Panda, TensorFlow**
+- 🌱 I’m currently learning **Database Administration**
 
-- 🤝 I’m looking for help with **machine learning**
+- 🤝 I’m looking for help with **Database Performance, APP Developer**
 
-- 💬 Ask me about **App developer and coding**
+- 💬 Ask me about **App developer and coding and Database**
 
 - 📫 How to reach me **linkden: Almaataz Alzahrani**
 
